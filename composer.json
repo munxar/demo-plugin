@@ -1,0 +1,15 @@
+{
+    "name": "liip/demo-plugin",
+    "type": "october-plugin",
+    "authors": [
+        {
+            "name": "munxar",
+            "email": "sascha.aeppli@liip.ch"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev"
+}

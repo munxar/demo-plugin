@@ -1,0 +1,6 @@
+plugin:
+    name: 'liip.demo::lang.plugin.name'
+    description: 'liip.demo::lang.plugin.description'
+    author: Liip
+    icon: oc-icon-adn
+    homepage: ''
